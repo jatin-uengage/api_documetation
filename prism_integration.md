@@ -256,7 +256,7 @@ This API allows you to redeem loyalty points or offers for a customer based on t
 
 ### Endpoint
 
-POST /api/redeemLoyalty
+POST /api/redeemLoyaltyRewards
 
 ### Parameters
 
