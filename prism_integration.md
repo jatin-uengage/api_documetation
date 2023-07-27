@@ -209,7 +209,7 @@ POST /api/checkLoyaltyRewards
 	"msg": "Success",
 	"total_points" : 89,
 	"redeemable_points" : 60,
-	"redeemable_points" : [{
+	"redeemable_offers" : [{
         "offerId" : 2,
         "offerName" : "70% Off on online Payment"
     },
