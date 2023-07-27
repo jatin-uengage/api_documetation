@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://gitlab.com/jatin7364226/api_documentation/-/raw/main/header_logo.png](https://raw.githubusercontent.com/jatin-uengage/api_documetation/main/header_logo.png)" alt="Image Alt Text" width="600">
+  <img src="https://raw.githubusercontent.com/jatin-uengage/api_documetation/main/header_logo.png" alt="Prism Logo" width="600">
 	
 </p>
 
