@@ -3,7 +3,7 @@
 	
 </p>
 
-<h1 align="center">Unenage Prism CRM API Integration Doc</h1>
+<h1 align="center">Uengage Prism CRM API Integration Doc</h1>
 
 ## Base URL
 https://crm.uengage.in/
